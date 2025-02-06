@@ -77,31 +77,7 @@ Follow these instructions to set up the repository locally and start testing wor
 
 ## Contributing
 
-Contributions to this testing repository are welcome. If you have feedback, encounter bugs, or want to add new sample workflows, please follow these steps:
-
-1. **Fork the Repository**
-
-2. **Create a New Branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "feat: add feature description"
-   ```
-
-4. **Push Your Branch**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-5. **Open a Pull Request**
-
-Please ensure your contributions meet the project's coding standards and include appropriate tests and documentation.
+We welcome contributions to this project. Please review our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ## Contact
 
