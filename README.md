@@ -1,8 +1,8 @@
 # Shared Workflows Test
 
 [![Build Status](https://github.com/martakisalex/shared-workflows-test/actions/workflows/ci.yml/badge.svg)](https://github.com/martakisalex/shared-workflows-test/actions)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![WIP](https://img.shields.io/badge/status-WIP-orange)](https://github.com/martakisalex/shared-workflows-test)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/martakisalex/shared-workflows-test)](https://github.com/martakisalex/shared-workflows-test/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/martakisalex/shared-workflows-test)](https://github.com/martakisalex/shared-workflows-test/graphs/contributors)
 
