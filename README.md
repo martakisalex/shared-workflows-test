@@ -77,7 +77,7 @@ Follow these instructions to set up the repository locally and start testing wor
 
 ## Contributing
 
-We welcome contributions to this project. Please review our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions to this project. Please review our [Contributing Guidelines](.github/CONTRIBUTING.md) to get started.
 
 ## Contact
 
